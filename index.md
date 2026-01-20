@@ -1,6 +1,6 @@
 ## Welcome to Isabel's Website
 
-##**About Me**
+## **About Me**
 - Electrical Engineering Student
 - Graduating in 2028
 
