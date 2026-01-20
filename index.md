@@ -1,4 +1,7 @@
-## Welcome to Isabel's Website
+# Isabel's First CS193 Homework
+- Clear Lectures
+- Simple Homeworks
+- Optional PSO's
 
 ## **About Me**
 - Electrical Engineering Student
